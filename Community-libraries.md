@@ -282,7 +282,7 @@ See the [regex crate](http://doc.rust-lang.org/regex/).
 
 ## Web Programming
 
-See also http://arewewebyet.com/
+See also http://www.arewewebyet.org/
 
   * common client + server functionality
     * [chris-morgan/rust-http](https://github.com/chris-morgan/rust-http): Superceeded by Teepee  [<img src="https://travis-ci.org/chris-morgan/rust-http.png?branch=master">](https://travis-ci.org/chris-morgan/rust-http)
